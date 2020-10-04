@@ -1,0 +1,31 @@
+{
+  "app": {
+    "titulo": "DBCCompany",
+    "site": "www.dbccompany.com.br",
+    "direitos_reservados": "Direitos Reservados ©️ ",
+    "botao": {
+      "baixar": "Baixar"
+    },
+    "mensagem": {
+      "erro": "Ops! Algo não esperado aconteceu!",
+      "megabytes": "megabytes",
+      "validacao": {
+        "anexoExtensao": "Arquivo inválido. Só é permitido arquivos com a extensão .dat"
+      }
+    },
+    "tela": {
+      "documentoLote": {
+        "titulo": "DOCUMENTOS",
+        "label": {
+          "nome": "NOME",
+          "arquivo": "ARQUIVO",
+          "tamanho": "TAMANHO",
+          "documentosLote": "Documentos Lote",
+          "documentosProcessandos": "Documentos Processandos",
+          "inserirDocumentoLote": "Inserir Documento Lote"
+        },
+        "validacao": {}
+      }
+    }
+  }
+}
