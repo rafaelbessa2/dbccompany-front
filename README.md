@@ -1,3 +1,9 @@
+Front do dbccompany em react js utilizando: typescript, i18next, axios, reduxsauce, seamless-immutable, redux-saga.
+
+Caso o teste do backend seja direrente de "http://127.0.0.1:8080", deve ser alterado o paramêtro baseURL do arquivo src/support/index.ts.
+
+![alt text](http://url/to/img.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
