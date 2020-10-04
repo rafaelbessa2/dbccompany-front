@@ -2,7 +2,11 @@ Front do dbccompany em react js utilizando: typescript, i18next, axios, reduxsau
 
 Caso o teste do backend seja direrente de "http://127.0.0.1:8080", deve ser alterado o paramêtro baseURL do arquivo src/support/index.ts.
 
-![alt text](http://url/to/img.png)
+![Arquitetura](https://github.com/rafaelbessa2/dbccompany-front/blob/master/arquitetura.png)
+![Documentos lote](https://github.com/rafaelbessa2/dbccompany-front/blob/master/documentos_lote.png)
+![Documentos processados](https://github.com/rafaelbessa2/dbccompany-front/blob/master/documentos_processados.png)
+![Inserir documento lote](https://github.com/rafaelbessa2/dbccompany-front/blob/master/inserir_documento_lote.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
